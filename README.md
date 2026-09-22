@@ -6,10 +6,6 @@ The form takes board length in feet, width in inches, thickness in quarter-inch 
 
 ## Run locally
 
-```bash
-npm install
-npm start
+Install dependencies with `npm install`, then start the app with `npm start`.
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This repository preserves the original tool and the operational problem it was built to solve.
